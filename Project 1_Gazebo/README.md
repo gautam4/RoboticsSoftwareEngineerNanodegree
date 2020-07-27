@@ -9,7 +9,3 @@
   * model: contains the model sdf files for the building and the robot model
   * script: contains a script that prints hello world when the gazebo world is launched
   * world: contains the Project1GazeboWorld.world Gazebo file
-
-
-## Instructions
-* To run this project, 
