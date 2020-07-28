@@ -14,7 +14,7 @@
     * amcl.launch: Launches world, robot, and amcl nodes in Gazebo and RViz
   * maps
     * map.yaml: defines map.pgm metadata
-    * map.pgm: 
+    * map.pgm: map generated using the pgm_map_creator package
   * meshes
     * hokuyo.dae: mesh for hokuyo lidar sensor
   * model
