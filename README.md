@@ -13,5 +13,5 @@
 * Project 4 Map My World
   * The project maps the Gazebo World using a robot's camera sensor and SLAM
 * Project 5 Home Service Robot
-  * As the final project of the nanodegree, this project involves synthesizing and building on all the previous skills into simulating a home service robot
+  * As the final project of the nanodegree, this project involves building upon and synthesizing the previous concepts into simulating a home service robot
 
